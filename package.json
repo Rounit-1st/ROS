@@ -1,0 +1,13 @@
+{
+  "name": "jos",
+  "version": "0.0.0",
+  "description": "",
+  "type":"module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": ["javascript","operating system","osdev"],
+  "author": "@rounit kashyap",
+  "license": "UNLICENSED"
+}
