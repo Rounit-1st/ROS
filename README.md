@@ -33,8 +33,3 @@ The generated image initializes CPU registers, sets up the stack, prints text us
    - Halts execution
 4. Padding ensures the output is exactly **512 bytes**
 5. The final two bytes contain the **BIOS magic number (`0xAA55`)**
-
----
-
-## 📁 Project Structure
-
